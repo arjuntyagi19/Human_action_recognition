@@ -1,4 +1,3 @@
-# Human_action_recognition
 
 # Human Action Recognition using CNN + LSTM
 
@@ -17,6 +16,9 @@ Human Action Recognition (HAR) is a key task in computer vision, with applicatio
 ## Dataset
 
 The project uses a video-based dataset where each video corresponds to a specific action label. Each video is preprocessed into frames, which are passed through the CNN-LSTM pipeline.
+
+![image](https://github.com/user-attachments/assets/e90cdd7a-e30a-43ea-8315-e7c0aa87f84b)
+
 
 ## Installation
 
